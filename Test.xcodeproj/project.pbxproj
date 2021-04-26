@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1545B2282636BD0F0044CE04 /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1545B2272636BD0F0044CE04 /* MainTabView.swift */; };
+		1545B22B2636BD6B0044CE04 /* KoreanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1545B22A2636BD6B0044CE04 /* KoreanView.swift */; };
+		1545B22E2636BD890044CE04 /* SetUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1545B22D2636BD890044CE04 /* SetUp.swift */; };
+		1545B2312636BDA20044CE04 /* KoreanViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1545B2302636BDA20044CE04 /* KoreanViewModel.swift */; };
+		1545B2342636BDDF0044CE04 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1545B2332636BDDF0044CE04 /* ColorExtension.swift */; };
+		1545B2372636BDFF0044CE04 /* NavigationBarColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1545B2362636BDFF0044CE04 /* NavigationBarColor.swift */; };
 		1567208D25C16D5700FFBF8E /* TestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1567208C25C16D5700FFBF8E /* TestApp.swift */; };
 		1567208F25C16D5700FFBF8E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1567208E25C16D5700FFBF8E /* ContentView.swift */; };
 		1567209125C16D5800FFBF8E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1567209025C16D5800FFBF8E /* Assets.xcassets */; };
@@ -14,6 +20,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1545B2272636BD0F0044CE04 /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
+		1545B22A2636BD6B0044CE04 /* KoreanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KoreanView.swift; sourceTree = "<group>"; };
+		1545B22D2636BD890044CE04 /* SetUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetUp.swift; sourceTree = "<group>"; };
+		1545B2302636BDA20044CE04 /* KoreanViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KoreanViewModel.swift; sourceTree = "<group>"; };
+		1545B2332636BDDF0044CE04 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
+		1545B2362636BDFF0044CE04 /* NavigationBarColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarColor.swift; sourceTree = "<group>"; };
 		1567208925C16D5700FFBF8E /* Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1567208C25C16D5700FFBF8E /* TestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestApp.swift; sourceTree = "<group>"; };
 		1567208E25C16D5700FFBF8E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +69,12 @@
 				1567209025C16D5800FFBF8E /* Assets.xcassets */,
 				1567209525C16D5800FFBF8E /* Info.plist */,
 				1567209225C16D5800FFBF8E /* Preview Content */,
+				1545B2272636BD0F0044CE04 /* MainTabView.swift */,
+				1545B22A2636BD6B0044CE04 /* KoreanView.swift */,
+				1545B22D2636BD890044CE04 /* SetUp.swift */,
+				1545B2302636BDA20044CE04 /* KoreanViewModel.swift */,
+				1545B2332636BDDF0044CE04 /* ColorExtension.swift */,
+				1545B2362636BDFF0044CE04 /* NavigationBarColor.swift */,
 			);
 			path = Test;
 			sourceTree = "<group>";
@@ -140,6 +158,12 @@
 			files = (
 				1567208F25C16D5700FFBF8E /* ContentView.swift in Sources */,
 				1567208D25C16D5700FFBF8E /* TestApp.swift in Sources */,
+				1545B22E2636BD890044CE04 /* SetUp.swift in Sources */,
+				1545B22B2636BD6B0044CE04 /* KoreanView.swift in Sources */,
+				1545B2312636BDA20044CE04 /* KoreanViewModel.swift in Sources */,
+				1545B2342636BDDF0044CE04 /* ColorExtension.swift in Sources */,
+				1545B2282636BD0F0044CE04 /* MainTabView.swift in Sources */,
+				1545B2372636BDFF0044CE04 /* NavigationBarColor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
